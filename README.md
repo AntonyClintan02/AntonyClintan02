@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AntonyClintan
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working with Angular
 - 📫 PeterAntony40@gmail.com
 
 <!---
